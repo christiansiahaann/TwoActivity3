@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoActivity</string>
+    <string name="send">Send</string>
+    <string name="message_received">s</string>
+</resources>

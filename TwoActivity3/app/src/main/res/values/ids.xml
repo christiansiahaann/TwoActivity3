@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_message" type="id" />
+    <item name="activity_second" type="id" />
+    <item name="text_message_reply" type="id" />
+</resources>
